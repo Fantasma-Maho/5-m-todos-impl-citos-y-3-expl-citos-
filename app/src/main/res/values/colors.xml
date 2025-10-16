@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales -->
+    <color name="brand_primary">#1976D2</color> <!-- Azul principal -->
+    <color name="brand_primary_dark">#0D47A1</color> <!-- Azul oscuro -->
+    <color name="brand_secondary">#1565C0</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_surface">#FFFFFF</color>
+    <color name="brand_on_surface">#212121</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_main">#212121</color>
+    <color name="text_dim">#757575</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="app_bg">#F5F5F5</color>
+
+    <color name="accent">#2196F3</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="surface">#FFFFFF</color>
+</resources>
